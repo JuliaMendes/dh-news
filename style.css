@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    font-size: 15px;
+}
+
+.destaque img {
+    width: 100%;
+}
+
+hr {
+    border: 0;
+	border-top: 1px solid gray;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.redes-sociais img {
+    margin: 10px;
+    width: 35px;
+}
+
